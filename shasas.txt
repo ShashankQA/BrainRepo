@@ -1,0 +1,26 @@
+(//input[@id='departureDate']/../following-sibling::div//sub[text()='2018']/../span[text()='June']/../../../../../following-sibling::div//small[text()='5640'])[3]
+
+
+
+
+
+
+
+
+//input[@id='departureDate']/../following-sibling::div//sub[text()='2018']/../span[text()='June']/../../../../../following-sibling::  for june
+
+
+
+//input[@id='departureDate']/../following-sibling::div
+
+
+
+
+//input[@id='departureDate']
+
+
+//sub[text()='2018']/../span[text()='June']
+
+//div[@class='date-table-right']
+
+//sub[text()='2018']/../span[text()='June']/../../../../..
